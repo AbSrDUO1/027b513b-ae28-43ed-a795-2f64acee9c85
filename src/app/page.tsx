@@ -16,7 +16,7 @@ export default function Home() {
         buttonText='Get Started'
       />
 
-      <div id='hero' data-section='hero' className='scroll-mt-24 bg-gradient-to-r from-[#0b1020] to-[#141b34]'>
+      <div id='hero' data-section='hero' className='scroll-mt-24'>
         <TokenBillboardHero
           title='Welcome to NebulaFlow'
           subtitle='Unlock the power of token-based services'
